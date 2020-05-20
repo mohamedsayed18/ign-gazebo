@@ -27,7 +27,7 @@ namespace ignition::gazebo
     };
 }
 
-using namespace igntiion;
+using namespace ignition;
 using namespace gazebo;
 
 /////////////////////////////////////////////////
