@@ -18,6 +18,7 @@
 #ifndef IGNITION_GAZEBO_GUI_PLOTTINGTOOL_HH_
 #define IGNITION_GAZEBO_GUI_PLOTTINGTOOL_HH_
 
+#include <ignition/gazebo/EntityComponentManager.hh>
 #include <ignition/gazebo/gui/GuiSystem.hh>
 
 namespace ignition
