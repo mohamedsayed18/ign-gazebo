@@ -25,19 +25,19 @@ namespace ignition
 {
 namespace gazebo
 {
-    class PlottingToolPrivate;
+  class PlottingToolPrivate;
 
-    class PlottingTool : public ignition::gazebo::GuiSystem
-    {
-        Q_OBJECT
+  class PlottingTool : public ignition::gazebo::GuiSystem
+  {
+    Q_OBJECT
 
-        /// \brief Constructor
+    /// \brief Constructor
 
 
-        /// \brief Destructor
+    /// \brief Destructor
 
-        
-    };
+      
+  };
 }
 }
 

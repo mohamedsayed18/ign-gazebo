@@ -21,10 +21,10 @@
 
 namespace ignition::gazebo
 {
-    class PlottingToolPrivate
-    {
+  class PlottingToolPrivate
+  {
 
-    };
+  };
 }
 
 using namespace ignition;
